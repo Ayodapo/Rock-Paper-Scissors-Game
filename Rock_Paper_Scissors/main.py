@@ -18,14 +18,6 @@ while True:
             else:
                 print("Hurray!!!, CPU wins")
             break
-        
-        # playagain = input("Do you wish to play again? Type 'Y' to continue 'N' to exit: ").lower()
-        # if playagain != 'y' or playagain != 'n':
-        #     print("Enter either 'Y' or 'N'")
-        # elif playagain == 'y':
-        #     continue
-        # else: 
-        #     break
     else:
         print("Invalid input, type either 'R','S' or 'P' \n")
    
